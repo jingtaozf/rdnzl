@@ -1,5 +1,5 @@
 ;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: RDNZL; Base: 10 -*-
-;;; $Header: /usr/local/cvsrep/rdnzl/reader.lisp,v 1.22 2010/05/18 10:54:29 edi Exp $
+;;; $Header: /usr/local/cvsrep/rdnzl/reader.lisp,v 1.22 2010-05-18 10:54:29 edi Exp $
 
 ;;; Copyright (c) 2004-2010, Dr. Edmund Weitz.  All rights reserved.
 

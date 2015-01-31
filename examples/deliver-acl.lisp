@@ -1,5 +1,5 @@
 ;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: RDNZL; Base: 10 -*-
-;;; $Header: /usr/local/cvsrep/rdnzl/examples/deliver-acl.lisp,v 1.10 2010/05/18 10:55:37 edi Exp $
+;;; $Header: /usr/local/cvsrep/rdnzl/examples/deliver-acl.lisp,v 1.10 2010-05-18 10:55:37 edi Exp $
 
 ;;; Copyright (c) 2004-2010, Charles A. Cox.  All rights reserved.
 

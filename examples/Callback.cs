@@ -1,4 +1,4 @@
-// $Header: /usr/local/cvsrep/rdnzl/examples/Callback.cs,v 1.1 2008/02/14 11:38:49 edi Exp $
+// $Header: /usr/local/cvsrep/rdnzl/examples/Callback.cs,v 1.1 2008-02-14 11:38:49 edi Exp $
 
 // Copyright (c) 2008, Dr. Edmund Weitz.  All rights reserved.
 

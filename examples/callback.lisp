@@ -1,5 +1,5 @@
 ;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: RDNZL; Base: 10 -*-
-;;; $Header: /usr/local/cvsrep/rdnzl/examples/callback.lisp,v 1.9 2008/02/14 11:38:49 edi Exp $
+;;; $Header: /usr/local/cvsrep/rdnzl/examples/callback.lisp,v 1.9 2008-02-14 11:38:49 edi Exp $
 
 ;;; Copyright (c) 2008, Dr. Edmund Weitz.  All rights reserved.
 

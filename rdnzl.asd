@@ -1,5 +1,5 @@
 ;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
-;;; $Header: /usr/local/cvsrep/rdnzl/rdnzl.asd,v 1.55 2010/05/18 10:56:37 edi Exp $
+;;; $Header: /usr/local/cvsrep/rdnzl/rdnzl.asd,v 1.55 2010-05-18 10:56:37 edi Exp $
 
 ;;; Copyright (c) 2004-2010, Dr. Edmund Weitz.  All rights reserved.
 
